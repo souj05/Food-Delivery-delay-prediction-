@@ -72,7 +72,7 @@ Food delivery platforms need to identify orders that are likely to be delayed so
 
 Interactive dashboard for real-time delay prediction with order summary, risk factors, and probability scores.
 
-> 📸 *(Add Streamlit screenshots here)*
+> 📸 *(![Streamlit App](Streamlit1.png)*
 
 🔗 **Live App:** [https://huggingface.co/spaces/souj05/food-delivery-delay-predictor](https://huggingface.co/spaces/souj05/food-delivery-delay-predictor)
 
@@ -96,7 +96,10 @@ The `/api/predict-delay` endpoint returns:
 - On-Time Probability
 - Risk Factors
 
-> 📸 *(Add FastAPI screenshots here)*
+> 📸 *(
+![FastAPI Home](FastAPI_1.png)
+![FastAPI Status](FastApi_2.png)
+![FastAPI Predict](FastApi_3.png))*
 
 ### Run Locally
 ```bash
