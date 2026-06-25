@@ -96,10 +96,10 @@ The `/api/predict-delay` endpoint returns:
 - On-Time Probability
 - Risk Factors
 
-> 📸 *(
-![FastAPI Home](FastAPI_1.png)
-![FastAPI Status](FastApi_2.png)
-![FastAPI Predict](FastApi_3.png))*
+> 📸
+(FastAPI_1.png)
+(FastApi_2.png)
+(FastApi_3.png)
 
 ### Run Locally
 ```bash
