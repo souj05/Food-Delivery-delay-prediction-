@@ -72,7 +72,7 @@ Food delivery platforms need to identify orders that are likely to be delayed so
 
 Interactive dashboard for real-time delay prediction with order summary, risk factors, and probability scores.
 
-> 📸 *(![Streamlit App](Streamlit1.png)*
+> 
 
 🔗 **Live App:** [https://huggingface.co/spaces/souj05/food-delivery-delay-predictor](https://huggingface.co/spaces/souj05/food-delivery-delay-predictor)
 
