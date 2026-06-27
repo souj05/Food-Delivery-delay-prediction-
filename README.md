@@ -97,9 +97,9 @@ The `/api/predict-delay` endpoint returns:
 - Risk Factors
 
 > 📸FastApi
-> ![FastAPI Screenshot](FastApi 1.png)
-> ![FastAPI Screenshot](FastApi 2.png)
-> ![FastAPI Screenshot](FastApi 3.png)
+![FastAPI ](FastApi%201.png)
+> ![FastAPI ](FastApi%202.png)
+> ![FastAPI Endpoint](FastApi%203.png)
 
 ### Run Locally
 ```bash
