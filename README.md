@@ -1,6 +1,6 @@
 # 🍕 Food Delivery Delay Prediction
 
-A Machine Learning project that predicts whether a food delivery order will be delayed, with an interactive Streamlit dashboard and a FastAPI REST API.
+A Machine Learning project that predicts whether a food delivery order will be delayed or not  with an interactive Streamlit dashboard and a FastAPI REST API.
 
 🔗 **Live App:** [https://huggingface.co/spaces/souj05/food-delivery-delay-predictor](https://huggingface.co/spaces/souj05/food-delivery-delay-predictor)
 
